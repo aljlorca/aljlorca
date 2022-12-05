@@ -17,7 +17,7 @@
 
 ---
 
-### 👨‍🚀 About Me :
+### 🚀 About Me :
 I'm an Computer Science Engineer🧑‍💻 from Chile <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f1e8-1f1f1.png" width="30">.
 
 - 🔭 I’m currently working on 👁️🐝Ⓜ️.
