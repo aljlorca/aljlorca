@@ -4,8 +4,10 @@
   </h1>
 </div>
 <div id="header" align="center">
-  I Develop In 
+  Developments in
+  <div>
   <img src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png" width="200"/>
+   </div>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/alan-lorca-espinoza-003907114/">
