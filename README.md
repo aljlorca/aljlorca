@@ -4,7 +4,7 @@
   </h1>
 </div>
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=ecf05e47fk38vx9irhokezszwxfn22r85uf4r4akio7mz5fs&rid=giphy.gif&ct=g" width="500"/>
+  <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width="500"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/alan-lorca-espinoza-003907114/">
