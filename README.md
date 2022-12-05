@@ -26,5 +26,3 @@ I'm an Computer Science Engineer🧑‍💻 from Chile <img src="https://images.
 ### 🤖 My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aljlorca&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aljlorca&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
