@@ -41,5 +41,5 @@ I'm an Computer Science Engineer🧑‍💻 from Chile <img src="https://images.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aljlorca&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
-<div> Python is love python is life 
+<div> Python is love Python is life 
 <img alt="Docker" title="Docker" src="https://static.djangoproject.com/img/fundraising-heart.cd6bb84ffd33.svg" height="20"></div>
