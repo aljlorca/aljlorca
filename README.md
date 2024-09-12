@@ -27,6 +27,8 @@ I'm an Computer Science Engineer🧑‍💻 from Chile <img src="https://images.
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="42"></a></code>
 <code><a href="https://en.reactjs.org/"><img alt="React" title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" height="42"></a></code>
 <code><a href="https://www.docker.com/"><img alt="Docker" title="Docker" src="https://massive.io/wp-content/uploads/2021/10/docker-logo-stacked.png" height="42"></a></code>
+<code><a href="https://flask.palletsprojects.com/en/3.0.x/"><img alt="Flask" title="Flask" src="https://massive.io/wp-content/uploads/2021/10/docker-logo-stacked.png" height="42"></a></code>
+
 
 
 ### 🌱 Languages/Frameworks I'm learning:
